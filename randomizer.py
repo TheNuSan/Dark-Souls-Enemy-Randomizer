@@ -18,11 +18,11 @@ from randomizer_rng import Randomizer
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
-    try:
-        # PyInstaller creates a temp folder and stores path in _MEIPASS
-        base_path = sys._MEIPASS
-    except Exception:
-        base_path = os.path.abspath(".")
+    # try:
+    #     # PyInstaller creates a temp folder and stores path in _MEIPASS
+    #     base_path = sys._MEIPASS
+    # except Exception:
+    base_path = os.path.abspath(".")
 
     return os.path.join(base_path, relative_path)
 
@@ -120,8 +120,8 @@ class ScrollableFrame():
 
 class MainWindow():
 
-    messages = [["* Bosses will not be replaced", "* Bosses will be replaced with bosses", "* Bosses will be replaced with normal enemies", "* Bosses will be replaced both with bosses and normal enemies"],
-        ["* Normal will not be replaced", "* Normal will be replaced with bosses\n  Would recommend you to set Replacement Chance to < 15%\n  otherwise it can become pretty difficult to beat the game", "* Normal enemies will be replaced with normal enemies", "* Normal enemies will be replaced both with bosses and normal enemies"],
+    messages = [["* Bosses will not be replaced", "* Bosses will be replaced with bosses", "* Bosses will be replaced with normal enemies", "* Bosses will be replaced both with bosses and normal enemies", "* Bosses will just not be there"],
+        ["* Normal will not be replaced", "* Normal will be replaced with bosses\n  Would recommend you to set Replacement Chance to < 15%\n  otherwise it can become pretty difficult to beat the game", "* Normal enemies will be replaced with normal enemies", "* Normal enemies will be replaced both with bosses and normal enemies", "* Normal enemies will just not be there"],
         ["* Enemies will only be placed where they fit", "* Enemies can be placed anywhere, regardless of their size\n  May cause some NPC-s to become too big to be able to talk to them if\n  NPC replacement is enabled.", "* Enemies can be placed anywhere, regardless of their size\n  Except when replacing NPC-s (so size limit is enforced on them)"],
         ["* Removed mode.", "* Mode: Enemies will be replaced with enemies from other areas\n  while still trying to maintain some sort of a difficulty curve\n  NOTICE: not really compatible with 'Replace normals only with bosses' and\n  'Replace bosses only with normals', you'll be seeing lots of unmodified\n  enemies in those modes.", "* Mode: Any enemy/boss can be placed ANYWHERE in the world\n  So yes, you could find things like Manus or Nito in the Asylum", "* Mode: Any enemy/boss can be placed ANYWHERE in the world\n  with asylum being the only exception.\n  Keeps asylum easy so you don't have to fight someone like\n  Manus with starting stats and equipment.", "* Mode: Enemies will be replaced with enemies from other areas\n  while still trying to maintain some sort of a difficulty curve\n  Uses a limited list for asylum to keep it easier for certain, even on looser\n  difficulty settings.\n  NOTICE: not really compatible with 'Replace normals only with bosses' and\n  'Replace bosses only with normals', you'll be seeing lots of unmodified\n  enemies in those modes."],
         ["* Mimics are not replaced", "* Mimics are replaced; in this version of the randomizer\n  they will properly drop their items."],
@@ -220,10 +220,10 @@ class MainWindow():
         # Init setting variables
 
         self.bossReplaceMode = IntVar()
-        self.bossReplaceMode.set(1)
+        self.bossReplaceMode.set(4)
 
         self.enemyReplaceMode = IntVar()
-        self.enemyReplaceMode.set(2)
+        self.enemyReplaceMode.set(4)
 
         self.fitMode = IntVar()
         self.fitMode.set(0)
@@ -315,11 +315,14 @@ class MainWindow():
         self.bossBtn3.pack(anchor=W)
         self.bossBtn4 = Radiobutton(self.bosses_frame, text="With bosses or normal enemies", variable=self.bossReplaceMode, value=3, command=self.UpdateMessageArea)
         self.bossBtn4.pack(anchor=W)
+        self.bossBtn5 = Radiobutton(self.bosses_frame, text="No bosses", variable=self.bossReplaceMode, value=4, command=self.UpdateMessageArea)
+        self.bossBtn5.pack(anchor=W)
 
         self.BindTags(self.bossBtn1, 0, 0)
         self.BindTags(self.bossBtn2, 0, 1)
         self.BindTags(self.bossBtn3, 0, 2)
         self.BindTags(self.bossBtn4, 0, 3)
+        self.BindTags(self.bossBtn5, 0, 4)
 
 
         self.normal_frame = LabelFrame(self.settingsPage1, text="Replace Normal Enemies:")
@@ -333,12 +336,15 @@ class MainWindow():
         self.normBtn3.pack(anchor=W)
         self.normBtn4 = Radiobutton(self.normal_frame, text="With bosses or normal enemies", variable=self.enemyReplaceMode, value=3, command=self.UpdateMessageArea)
         self.normBtn4.pack(anchor=W)
+        self.normBtn5 = Radiobutton(self.normal_frame, text="No enemies", variable=self.enemyReplaceMode, value=4, command=self.UpdateMessageArea)
+        self.normBtn5.pack(anchor=W)
 
         self.BindTags(self.normBtn1, 1, 0)
         self.BindTags(self.normBtn2, 1, 1)
         self.BindTags(self.normBtn3, 1, 2)
         self.BindTags(self.normBtn4, 1, 3)
-
+        self.BindTags(self.normBtn5, 1, 4)
+        
 
         self.fit_frame = LabelFrame(self.settingsPage1, text="Enemy placement:")
         self.fit_frame.grid(row=4, column=3, sticky='NWES', padx=2)

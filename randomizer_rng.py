@@ -18,6 +18,7 @@ from enum import Enum
 from NpcParam import NpcParam
 from dcx_handler import DCXHandler
 from event_tools import EventTools
+import sys
 
 #logFile = open('log.txt', 'w')
 logFile = -1
@@ -1277,7 +1278,7 @@ class Randomizer:
 
             # Generate a seed if none is provided.
             if (seed == ""):
-                random.seed(datetime.datetime.now())
+                random.seed()
                 seed = str(random.randrange(sys.maxsize))
             
             random.seed(seed)
@@ -1540,8 +1541,11 @@ class Randomizer:
                                         newChar = self.GetBossEnemy(diffMode, inFile, True, maxCreatureSize, expectedDifficulty, diffStrictness, creatureId, False)
                                     elif (enemyMode == 2):   #replace with normals only
                                         newChar = self.GetNormalEnemy(diffMode, inFile, True, maxCreatureSize, expectedDifficulty, diffStrictness, creatureId)
+
                                     elif (enemyMode == 3):   #replace with both
                                         newChar = self.GetNormalOrBossEnemy(diffMode, inFile, bossChance, True, maxCreatureSize, expectedDifficulty, diffStrictness, creatureId)
+                                    elif (enemyMode == 4):   #replace with none
+                                        newChar = 24 # tiny mushroom
                                 else:
                                     newChar = -3
 
@@ -1559,6 +1563,8 @@ class Randomizer:
 
                                     if (self.validNew[newChar][NewCol.TYPE.value] == "1" and not newChar in self.currentBosses):
                                         self.currentBosses.append(newChar)
+                                elif (bossMode == 4):   #replace with none
+                                    newChar = 24 # tiny mushroom
 
                             elif (creatureType == "2" and npcMode != 0):     #replacing NPC
                                 if (fitMode == 2):
@@ -1569,7 +1575,7 @@ class Randomizer:
                                     newChar = self.GetNormalEnemy(2, inFile, True, maxCreatureSize, expectedDifficulty, diffStrictness, creatureId)
                                 elif (npcMode == 3):   #replace with both
                                     newChar = self.GetNormalOrBossEnemy(2, inFile, bossChance, True, maxCreatureSize, expectedDifficulty, diffStrictness, creatureId)
-
+                                
                                 if ("c2640" in creatureId):                 # Special Andre -> Gwyndolin Replacement
                                     if (npcMode == 1 or npcMode == 3):
                                         if (randint(1,100) > 60):
