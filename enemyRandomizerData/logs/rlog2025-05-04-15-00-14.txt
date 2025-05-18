@@ -1,0 +1,19 @@
+Checking Files
+m10_00_00_00 - Depths - offset: 250 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m10_01_00_00 - Undead Burg/Parish - offset: 495 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m10_02_00_00 - Firelink Shrine - offset: 171 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m11_00_00_00 - Painted World - offset: 259 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m12_00_00_00 - Darkroot Garden - offset: 280 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m12_01_00_00 - DLC - offset: 459 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m12_00_00_01 - DarkRoot Garden #2 - offset: 282 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m13_00_00_00 - Catacombs - offset: 254 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m13_01_00_00 - Tomb of the Giants - offset: 242 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m13_02_00_00 - Great Hollow & Ash Lake - offset: 180 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m14_00_00_00 - Blighttown - offset: 342 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m14_01_00_00 - Demon Ruins & Lost Izalith - offset: 382 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m15_00_00_00 - Sen's Fortress - offset: 210 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m15_01_00_00 - Anor Londo - offset: 251 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m16_00_00_00 - New Londo Ruins - offset: 197 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m17_00_00_00 - Duke's Archives & Crystal Cave - offset: 307 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m18_00_00_00 - Kiln of the First Flame - offset: 84 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m18_01_00_00 - Northern Undead Asylum - offset: 154 - ref file exists - msb file exists - luabnd file exists - sfx file exists

@@ -1,0 +1,1530 @@
+Checking Files
+m10_00_00_00 - Depths - offset: 250 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m10_01_00_00 - Undead Burg/Parish - offset: 495 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m10_02_00_00 - Firelink Shrine - offset: 171 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m11_00_00_00 - Painted World - offset: 259 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m12_00_00_00 - Darkroot Garden - offset: 280 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m12_01_00_00 - DLC - offset: 459 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m12_00_00_01 - DarkRoot Garden #2 - offset: 282 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m13_00_00_00 - Catacombs - offset: 254 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m13_01_00_00 - Tomb of the Giants - offset: 242 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m13_02_00_00 - Great Hollow & Ash Lake - offset: 180 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m14_00_00_00 - Blighttown - offset: 342 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m14_01_00_00 - Demon Ruins & Lost Izalith - offset: 382 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m15_00_00_00 - Sen's Fortress - offset: 210 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m15_01_00_00 - Anor Londo - offset: 251 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m16_00_00_00 - New Londo Ruins - offset: 197 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m17_00_00_00 - Duke's Archives & Crystal Cave - offset: 307 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m18_00_00_00 - Kiln of the First Flame - offset: 84 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+m18_01_00_00 - Northern Undead Asylum - offset: 154 - ref file exists - msb file exists - luabnd file exists - sfx file exists
+Loading valid targets
+Done, 125 valid target enemies
+Loading valid new enemies
+Done, 123 valid new enemies
+----
+ Starting Randomization 
+----
+bossMode=1; enemyMode=2; npcMode=0; mimicMode=0
+fitMode=0; diffMode=3; diffStrictness=1; replaceChance=100; bossChance(Normal)=10; bossChance(Boss)=90; gargoyleMode=1
+tpose=0; hellkiteIgnored=0; smallEnIgnored=0
+seed='1223126991'
+max_unique=30
+----
+textconfig:
+1/-/2/-/0/-/0/-/0/-/3/-/100/-/10/-/90/-/1/-/1/-/0/-/0/-/0/-/'''1223126991'''
+----
+Randomizing m10_00_00_00 - Depths
+Replacing (c1200_0000) Rat with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c1200_0001) Rat with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c1200_0002) Rat with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c1200_0003) Rat with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c1200_0004) Rat with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c1200_0005) Rat with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c1201_0000) Small Rat with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c1201_0001) Small Rat with (c2550) Undead Soldier[29] ai = 255001; param = 255001
+Replacing (c1201_0002) Small Rat with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c1201_0003) Small Rat with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c1201_0004) Small Rat with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c1201_0005) Small Rat with (c2900) Skeleton[54] ai = 290003; param = 290002
+Replacing (c1201_0006) Small Rat with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c1201_0007) Small Rat with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c1201_0008) Small Rat with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c1201_0009) Small Rat with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c1201_0010) Small Rat with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c1201_0011) Small Rat with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c1201_0012) Small Rat with (c2060) Infested Ghoul[4] ai = 206002; param = 206002
+Replacing (c1201_0013) Small Rat with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c1201_0014) Small Rat with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c1201_0015) Small Rat with (c3480) Chaos Bug[86] ai = 348000; param = 348000
+Replacing (c1201_0016) Small Rat with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c1201_0017) Small Rat with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c1201_0018) Small Rat with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c1201_0019) Small Rat with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c1201_0020) Small Rat with (c2570) Berenike Knight[31] ai = 257000; param = 257000
+Replacing (c1201_0021) Small Rat with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c1201_0022) Small Rat with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c1201_0023) Small Rat with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c1201_0024) Small Rat with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c1201_0025) Small Rat with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c1202_0000) Large Rat with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2370_0000) Channeler with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2500_0000) Hollow with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2500_0001) Hollow with (c2570) Berenike Knight[31] ai = 257001; param = 257001
+Replacing (c2500_0002) Hollow with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2500_0003) Hollow with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2500_0004) Hollow with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2500_0005) Hollow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2500_0006) Hollow with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2500_0007) Hollow with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2500_0008) Hollow with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2500_0009) Hollow with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c2500_0010) Hollow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2500_0011) Hollow with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2500_0012) Hollow with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2500_0013) Hollow with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2500_0014) Hollow with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2500_0015) Hollow with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2500_0016) Hollow with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2660_0000) Butcher with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2660_0001) Butcher with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2660_0002) Butcher with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c3200_0000) Slime with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3200_0001) Slime with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c3200_0002) Slime with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c3200_0003) Slime with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3200_0004) Slime with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c3200_0005) Slime with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c3200_0006) Slime with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c3200_0007) Slime with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c3200_0008) Slime with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c3200_0009) Slime with (c3480) Chaos Bug[86] ai = 348000; param = 348000
+Replacing (c3200_0010) Slime with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c3270_0000) Basilisk with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c3270_0001) Basilisk with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c3270_0002) Basilisk with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c3270_0003) Basilisk with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c3270_0004) Basilisk with (c2060) Infested Ghoul[4] ai = 206002; param = 206002
+Replacing (c3270_0005) Basilisk with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c3270_0006) Basilisk with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c3270_0007) Basilisk with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c3270_0009) Basilisk with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c3270_0010) Basilisk with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3340_0000) Undead Attack Dog with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3340_0001) Undead Attack Dog with (c2550) Undead Soldier[29] ai = 255000; param = 255000
+Replacing (c3340_0002) Undead Attack Dog with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c3340_0003) Undead Attack Dog with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c5260_0000) Gaping Dragon with (c5350) Bell Gargoyles[118] ai = 535000; param = 535000
+---------------------
+Randomizing m10_01_00_00 - Undead Burg/Parish
+Replacing (c1201_0000) Small Rat with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c1201_0001) Small Rat with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c1201_0002) Small Rat with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2240_0000) Capra Demon with (c2240) Capra Demon[8] ai = 224000; param = 224000
+Replacing (c2250_0000) Taurus Demon with (c5280) Quelaag[115] ai = 528000; param = 528000 changed position
+Replacing (c2300_0000) Titanite Demon with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2370_0001) Channeler with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c2500_0000) Hollow with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c2500_0001) Hollow with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2500_0002) Hollow with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2500_0003) Hollow with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2500_0004) Hollow with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2500_0005) Hollow with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2500_0006) Hollow with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2500_0007) Hollow with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2500_0008) Hollow with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2500_0020) Hollow with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2500_0021) Hollow with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2500_0022) Hollow with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2500_0023) Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2500_0025) Hollow with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2500_0026) Hollow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2500_0027) Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2500_0028) Hollow with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2500_0029) Hollow with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2500_0034) Hollow with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c2500_0035) Hollow with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2500_0036) Hollow with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2500_0037) Hollow with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2500_0038) Hollow with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2500_0039) Hollow with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2500_0040) Hollow with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2500_0041) Hollow with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2500_0042) Hollow with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2500_0043) Hollow with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2500_0044) Hollow with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c2500_0045) Hollow with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2500_0046) Hollow with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2500_0047) Hollow with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2500_0048) Hollow with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c2500_0049) Hollow with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2500_0050) Hollow with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2500_0051) Hollow with (c2840) Engorged Zombie[51] ai = 284000; param = 284000
+Replacing (c2500_0052) Hollow with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2500_0053) Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2500_0054) Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2500_0055) Hollow with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2500_0056) Hollow with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2500_0057) Hollow with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2500_0058) Hollow with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Did not replace (c2510_0000) Undead Merchant - c=-1
+Replacing (c2520_0004) Undead Assassin with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2520_0005) Undead Assassin with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2520_0006) Undead Assassin with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2520_0007) Undead Assassin with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2520_0008) Undead Assassin with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2520_0009) Undead Assassin with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2520_0010) Undead Assassin with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2520_0011) Undead Assassin with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2520_0012) Undead Assassin with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2520_0013) Undead Assassin with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c2540_0000) Armored Hollow with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2540_0001) Armored Hollow with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2540_0002) Armored Hollow with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2540_0003) Armored Hollow with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2540_0004) Armored Hollow with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2540_0005) Armored Hollow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2540_0006) Armored Hollow with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2540_0007) Armored Hollow with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2540_0008) Armored Hollow with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2540_0010) Armored Hollow with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2540_0011) Armored Hollow with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2540_0012) Armored Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2540_0013) Armored Hollow with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2540_0014) Armored Hollow with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2540_0015) Armored Hollow with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2540_0016) Armored Hollow with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2540_0017) Armored Hollow with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2540_0023) Armored Hollow with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2540_0024) Armored Hollow with (c2840) Engorged Zombie[51] ai = 284000; param = 284000
+Replacing (c2540_0025) Armored Hollow with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2540_0034) Armored Hollow with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2550_0001) Undead Soldier with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2550_0002) Undead Soldier with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2550_0003) Undead Soldier with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2550_0006) Undead Soldier with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2550_0008) Undead Soldier with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2550_0009) Undead Soldier with (c2500) Hollow[24] ai = 250000; param = 250000
+Replacing (c2550_0010) Undead Soldier with (c2550) Undead Soldier[29] ai = 255001; param = 255001
+Replacing (c2550_0011) Undead Soldier with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2550_0012) Undead Soldier with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2550_0013) Undead Soldier with (c2790) Black Knight[43] ai = 279002; param = 279020
+Replacing (c2550_0014) Undead Soldier with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2550_0015) Undead Soldier with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2550_0016) Undead Soldier with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2550_0020) Undead Soldier with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2550_0024) Undead Soldier with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2550_0025) Undead Soldier with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2550_0030) Undead Soldier with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2550_0031) Undead Soldier with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2550_0032) Undead Soldier with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2550_0033) Undead Soldier with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2550_0034) Undead Soldier with (c2790) Black Knight[43] ai = 279003; param = 279030
+Replacing (c2550_0035) Undead Soldier with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2550_0036) Undead Soldier with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2550_0037) Undead Soldier with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2550_0040) Undead Soldier with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2550_0041) Undead Soldier with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2550_0042) Undead Soldier with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2550_0043) Undead Soldier with (c2840) Engorged Zombie[51] ai = 284000; param = 284000
+Replacing (c2550_0044) Undead Soldier with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c2550_0045) Undead Soldier with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2550_0046) Undead Soldier with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2550_0047) Undead Soldier with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2550_0048) Undead Soldier with (c2500) Hollow[24] ai = 250000; param = 250000
+Replacing (c2560_0000) Balder Knight with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2560_0001) Balder Knight with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c2560_0003) Balder Knight with (c2550) Undead Soldier[29] ai = 255000; param = 255000
+Replacing (c2560_0004) Balder Knight with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2560_0005) Balder Knight with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c2560_0006) Balder Knight with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2560_0007) Balder Knight with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2560_0008) Balder Knight with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2570_0000) Berenike Knight with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2570_0003) Berenike Knight with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Did not replace (c2640_0000) Andre of Astora - c=-1
+Replacing (c2792_0000) Black Knight with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2793_0000) Black Knight with (c2790) Black Knight[43] ai = 279003; param = 279030
+Replacing (c3300_0000) Crystal Lizard with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c3340_0000) Undead Attack Dog with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c3340_0001) Undead Attack Dog with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c3340_0002) Undead Attack Dog with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c3340_0003) Undead Attack Dog with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c3340_0004) Undead Attack Dog with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c3340_0005) Undead Attack Dog with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c3340_0006) Undead Attack Dog with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c3340_0007) Undead Attack Dog with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c3340_0008) Undead Attack Dog with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c3430_0000) Hellkite Drake with (c2230) Stray Demon[5] ai = 223000; param = 223000
+Replacing (c3430_0001) Hellkite Drake with (c2730) Crossbreed Priscilla[41] ai = 273000; param = 273000
+Replacing (c3460_0000) Armored Tusk with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c5350_0000) Bell Gargoyles with (c5210) Sif[108] ai = 521000; param = 521000
+Replacing (c5350_0001) Bell Gargoyles with (c2360) Smough[17] ai = 236000; param = 236000 changed position
+Replacing (c5350_0002) Bell Gargoyles with (c2730) Crossbreed Priscilla[41] ai = 273000; param = 273000
+---------------------
+Randomizing m10_02_00_00 - Firelink Shrine
+Replacing (c1201_0002) Small Rat with (c2560) Balder Knight[30] ai = 256001; param = 256011
+Did not replace (c2510_0000) Undead Merchant - c=-1
+Replacing (c2540_0000) Armored Hollow with (c3350) Possessed Tree[74] ai = 335000; param = 335000
+Replacing (c2540_0001) Armored Hollow with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c2540_0003) Armored Hollow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2540_0006) Armored Hollow with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2540_0007) Armored Hollow with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2550_0000) Undead Soldier with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2900_0000) Skeleton with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2900_0001) Skeleton with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2900_0002) Skeleton with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2900_0003) Skeleton with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2900_0004) Skeleton with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c2900_0005) Skeleton with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2900_0006) Skeleton with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2900_0009) Skeleton with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2900_0010) Skeleton with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2900_0011) Skeleton with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2900_0014) Skeleton with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2910_0000) Giant Skeleton with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2910_0001) Giant Skeleton with (c2650) Necromancer[33] ai = 265000; param = 265000
+---------------------
+Randomizing m11_00_00_00 - Painted World
+Replacing (c1203_0000) Snow Rat with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c1203_0001) Snow Rat with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c1203_0002) Snow Rat with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c1203_0003) Snow Rat with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c1203_0004) Snow Rat with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c1203_0005) Snow Rat with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c1203_0006) Snow Rat with (c2560) Balder Knight[30] ai = 256002; param = 256002
+Replacing (c1203_0007) Snow Rat with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c1203_0008) Snow Rat with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c1203_0009) Snow Rat with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c1203_0010) Snow Rat with (c2560) Balder Knight[30] ai = 256002; param = 256002
+Replacing (c2310_0000) Crow Demon with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2310_0001) Crow Demon with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2310_0002) Crow Demon with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2310_0003) Crow Demon with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2310_0004) Crow Demon with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2310_0005) Crow Demon with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2310_0006) Crow Demon with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2500_0000) Hollow with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2500_0001) Hollow with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2500_0002) Hollow with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2500_0003) Hollow with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2500_0004) Hollow with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2500_0005) Hollow with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2500_0006) Hollow with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2500_0007) Hollow with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2500_0008) Hollow with (c2790) Black Knight[43] ai = 279002; param = 279020
+Replacing (c2500_0009) Hollow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2500_0010) Hollow with (c2060) Infested Ghoul[4] ai = 206002; param = 206002
+Replacing (c2500_0011) Hollow with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2500_0012) Hollow with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2500_0013) Hollow with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2500_0014) Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2500_0015) Hollow with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c2500_0016) Hollow with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2500_0017) Hollow with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2500_0018) Hollow with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2500_0019) Hollow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2500_0020) Hollow with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2500_0021) Hollow with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2500_0022) Hollow with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2500_0023) Hollow with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2500_0024) Hollow with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2500_0025) Hollow with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2500_0026) Hollow with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2500_0027) Hollow with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2500_0028) Hollow with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2500_0029) Hollow with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2500_0030) Hollow with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2500_0031) Hollow with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2500_0032) Hollow with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2570_0000) Berenike Knight with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2730_0000) Crossbreed Priscilla with (c2231) Demon Firesage[6] ai = 223100; param = 223100
+Replacing (c2830_0000) Phalanx with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2830_0001) Phalanx with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2830_0002) Phalanx with (c2900) Skeleton[54] ai = 290002; param = 290000
+Replacing (c2830_0003) Phalanx with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2830_0004) Phalanx with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2830_0005) Phalanx with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2830_0006) Phalanx with (c2900) Skeleton[54] ai = 290004; param = 290002
+Replacing (c2830_0007) Phalanx with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2830_0008) Phalanx with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2830_0009) Phalanx with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2830_0010) Phalanx with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2830_0011) Phalanx with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2830_0012) Phalanx with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2830_0013) Phalanx with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2840_0000) Engorged Zombie with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2840_0001) Engorged Zombie with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2840_0002) Engorged Zombie with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2840_0003) Engorged Zombie with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2840_0004) Engorged Zombie with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2840_0005) Engorged Zombie with (c2560) Balder Knight[30] ai = 256002; param = 256002
+Replacing (c2840_0006) Engorged Zombie with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2840_0007) Engorged Zombie with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2840_0008) Engorged Zombie with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2840_0009) Engorged Zombie with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2840_0010) Engorged Zombie with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2840_0011) Engorged Zombie with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2840_0012) Engorged Zombie with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2840_0013) Engorged Zombie with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2840_0014) Engorged Zombie with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2840_0015) Engorged Zombie with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2840_0016) Engorged Zombie with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2840_0017) Engorged Zombie with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2930_0000) Bonewheel Skeleton with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2930_0001) Bonewheel Skeleton with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2930_0002) Bonewheel Skeleton with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2930_0003) Bonewheel Skeleton with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2930_0004) Bonewheel Skeleton with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c2930_0005) Bonewheel Skeleton with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2930_0006) Bonewheel Skeleton with (c2560) Balder Knight[30] ai = 256002; param = 256002
+Replacing (c2930_0007) Bonewheel Skeleton with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2930_0008) Bonewheel Skeleton with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2930_0009) Bonewheel Skeleton with (c2900) Skeleton[54] ai = 290003; param = 290002
+Replacing (c2930_0010) Bonewheel Skeleton with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2930_0011) Bonewheel Skeleton with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2930_0012) Bonewheel Skeleton with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2930_0013) Bonewheel Skeleton with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c3420_0000) Undead Dragon with (c5210) Sif[108] ai = 521000; param = 521000
+Replacing (c3421_0000) Bounding Demon of Izalith with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+---------------------
+Randomizing m12_00_00_00 - Darkroot Garden
+Replacing (c2270_0000) Mushroom Parent with (c2410) Silver Knight[22] ai = 241000; param = 241000
+Replacing (c2270_0001) Mushroom Parent with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2270_0002) Mushroom Parent with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2270_0003) Mushroom Parent with (c2410) Silver Knight[22] ai = 241004; param = 241004
+Replacing (c2280_0000) Mushroom Child with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2280_0001) Mushroom Child with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2280_0002) Mushroom Child with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2280_0003) Mushroom Child with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2280_0004) Mushroom Child with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2280_0005) Mushroom Child with (c3350) Possessed Tree[74] ai = 335000; param = 335000
+Replacing (c2280_0006) Mushroom Child with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2280_0007) Mushroom Child with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2280_0008) Mushroom Child with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2280_0009) Mushroom Child with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2280_0010) Mushroom Child with (c2060) Infested Ghoul[4] ai = 206001; param = 206001
+Replacing (c2280_0011) Mushroom Child with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c2330_0000) Demonic Foliage with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2330_0001) Demonic Foliage with (c2410) Silver Knight[22] ai = 241004; param = 241004
+Replacing (c2330_0002) Demonic Foliage with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2330_0003) Demonic Foliage with (c2560) Balder Knight[30] ai = 256002; param = 256002
+Replacing (c2330_0004) Demonic Foliage with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2330_0005) Demonic Foliage with (c2540) Armored Hollow[28] ai = 254002; param = 254012
+Replacing (c2330_0006) Demonic Foliage with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2330_0007) Demonic Foliage with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2330_0008) Demonic Foliage with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2330_0009) Demonic Foliage with (c2560) Balder Knight[30] ai = 256001; param = 256011
+Replacing (c2330_0010) Demonic Foliage with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c2330_0011) Demonic Foliage with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2330_0012) Demonic Foliage with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2330_0013) Demonic Foliage with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2330_0014) Demonic Foliage with (c2410) Silver Knight[22] ai = 241003; param = 241003
+Replacing (c2330_0015) Demonic Foliage with (c3461) Armored Tusk (Dukes)[84] ai = 346100; param = 346100
+Replacing (c2330_0016) Demonic Foliage with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2330_0017) Demonic Foliage with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c2330_0018) Demonic Foliage with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2330_0019) Demonic Foliage with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c2330_0020) Demonic Foliage with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2330_0021) Demonic Foliage with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2330_0022) Demonic Foliage with (c2410) Silver Knight[22] ai = 241003; param = 241003
+Replacing (c2330_0023) Demonic Foliage with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2330_0024) Demonic Foliage with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2330_0025) Demonic Foliage with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2330_0026) Demonic Foliage with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2380_0000) Giant Stone Knight with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2380_0001) Giant Stone Knight with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2380_0002) Giant Stone Knight with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2380_0003) Giant Stone Knight with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2380_0004) Giant Stone Knight with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2380_0005) Giant Stone Knight with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2380_0006) Giant Stone Knight with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2380_0007) Giant Stone Knight with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2380_0008) Giant Stone Knight with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2380_0009) Giant Stone Knight with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2380_0010) Giant Stone Knight with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2710_0000) Crystal Golem with (c2060) Infested Ghoul[4] ai = 206002; param = 206002
+Replacing (c2710_0001) Crystal Golem with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c2710_0002) Crystal Golem with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2710_0003) Crystal Golem with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2711_0000) Golden Crystal Golem with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c2795_0000) Black Knight with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c3230_0000) Moonlight Butterfly with (c3320) Pinwheel[70] ai = 332000; param = 332000 changed position
+Replacing (c3300_0000) Crystal Lizard with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c3350_0000) Possessed Tree with (c2410) Silver Knight[22] ai = 241003; param = 241003
+Replacing (c3350_0001) Possessed Tree with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3370_0000) Tree Lizard with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c3370_0002) Tree Lizard with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c3410_0000) Frog-Ray with (c2840) Engorged Zombie[51] ai = 284000; param = 284000
+Replacing (c3410_0001) Frog-Ray with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c3410_0002) Frog-Ray with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c3410_0003) Frog-Ray with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c3410_0004) Frog-Ray with (c2060) Infested Ghoul[4] ai = 206001; param = 206001
+Replacing (c3530_0000) Hydra with (c5290) Seath the Scaleless[116] ai = 529000; param = 529000 changed position
+Replacing (c5210_0000) Sif with (c5390) Four Kings[122] ai = 539000; param = 539001
+Replacing (c5360_0000) Great Feline with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c5360_0001) Great Feline with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c5360_0002) Great Feline with (c4150) Bloathead[96] ai = 415000; param = 415000
+---------------------
+Randomizing m12_01_00_00 - DLC
+Did not replace (c2780_0001) Mimic - mimic mode is 0
+Replacing (c3300_0000) Crystal Lizard with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c3300_0001) Crystal Lizard with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c3300_0002) Crystal Lizard with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3300_0003) Crystal Lizard with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c3300_0004) Crystal Lizard with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c3471_0000) Sanctuary Guardian with (c4510) Black Dragon Kalameet[104] ai = 451000; param = 451000
+Replacing (c3471_0001) Sanctuary Guardian with (c5200) Centipede Demon[105] ai = 520000; param = 520000
+Replacing (c3471_0002) Sanctuary Guardian with (c2320) Iron Golem[15] ai = 232000; param = 232000
+Replacing (c4100_0000) Artorias with (c3320) Pinwheel[70] ai = 332002; param = 332002
+Did not replace (c4110_0000) Hawkeye Gough - c=-1
+Replacing (c4120_0000) Stone Guardian with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c4120_0001) Stone Guardian with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c4120_0002) Stone Guardian with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c4120_0003) Stone Guardian with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4120_0004) Stone Guardian with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4120_0005) Stone Guardian with (c2410) Silver Knight[22] ai = 241000; param = 241000
+Replacing (c4120_0006) Stone Guardian with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4120_0007) Stone Guardian with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4120_0008) Stone Guardian with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4120_0011) Stone Guardian with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c4120_0012) Stone Guardian with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c4120_0013) Stone Guardian with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c4130_0000) Scarecrow with (c2900) Skeleton[54] ai = 290002; param = 290000
+Replacing (c4130_0001) Scarecrow with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4130_0002) Scarecrow with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4130_0003) Scarecrow with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c4130_0004) Scarecrow with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c4130_0005) Scarecrow with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4130_0006) Scarecrow with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c4130_0007) Scarecrow with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c4130_0008) Scarecrow with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c4130_0009) Scarecrow with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c4130_0010) Scarecrow with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c4130_0012) Scarecrow with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4130_0013) Scarecrow with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4130_0014) Scarecrow with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c4130_0016) Scarecrow with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c4130_0017) Scarecrow with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c4130_0018) Scarecrow with (c2870) Sentinel or Royal Sentinel[53] ai = 287000; param = 287000
+Replacing (c4130_0019) Scarecrow with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4130_0020) Scarecrow with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c4130_0021) Scarecrow with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c4130_0022) Scarecrow with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c4130_0023) Scarecrow with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c4130_0024) Scarecrow with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c4130_0025) Scarecrow with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c4130_0026) Scarecrow with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4130_0027) Scarecrow with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4130_0028) Scarecrow with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c4130_0029) Scarecrow with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c4130_0031) Scarecrow with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4130_0032) Scarecrow with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c4130_0033) Scarecrow with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c4130_0034) Scarecrow with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4130_0039) Scarecrow with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c4130_0040) Scarecrow with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c4130_0041) Scarecrow with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c4130_0042) Scarecrow with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c4130_0046) Scarecrow with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c4130_0047) Scarecrow with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c4130_0048) Scarecrow with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4130_0049) Scarecrow with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c4150_0000) Bloathead with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4150_0001) Bloathead with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4150_0002) Bloathead with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c4150_0003) Bloathead with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4150_0004) Bloathead with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4150_0005) Bloathead with (c2900) Skeleton[54] ai = 290004; param = 290002
+Replacing (c4150_0006) Bloathead with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c4150_0007) Bloathead with (c2410) Silver Knight[22] ai = 241004; param = 241004
+Replacing (c4150_0008) Bloathead with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c4150_0009) Bloathead with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4150_0010) Bloathead with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c4150_0011) Bloathead with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c4150_0012) Bloathead with (c2900) Skeleton[54] ai = 290000; param = 290000
+Replacing (c4150_0013) Bloathead with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c4150_0014) Bloathead with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c4150_0015) Bloathead with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c4150_0016) Bloathead with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4150_0017) Bloathead with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c4150_0018) Bloathead with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c4150_0019) Bloathead with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4150_0020) Bloathead with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c4150_0021) Bloathead with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c4150_0022) Bloathead with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c4150_0023) Bloathead with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4150_0024) Bloathead with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c4150_0025) Bloathead with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c4150_0026) Bloathead with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c4150_0027) Bloathead with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c4150_0028) Bloathead with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c4150_0029) Bloathead with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c4150_0030) Bloathead with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4150_0031) Bloathead with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c4150_0032) Bloathead with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4150_0033) Bloathead with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4150_0034) Bloathead with (c2900) Skeleton[54] ai = 290003; param = 290002
+Replacing (c4150_0035) Bloathead with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c4160_0000) Bloathead Sorcerer with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4160_0001) Bloathead Sorcerer with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c4160_0002) Bloathead Sorcerer with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c4160_0003) Bloathead Sorcerer with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4160_0004) Bloathead Sorcerer with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c4160_0005) Bloathead Sorcerer with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c4160_0006) Bloathead Sorcerer with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c4160_0007) Bloathead Sorcerer with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c4160_0008) Bloathead Sorcerer with (c2900) Skeleton[54] ai = 290004; param = 290002
+Replacing (c4160_0009) Bloathead Sorcerer with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c4160_0010) Bloathead Sorcerer with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4160_0011) Bloathead Sorcerer with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c4160_0012) Bloathead Sorcerer with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4160_0013) Bloathead Sorcerer with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c4160_0015) Bloathead Sorcerer with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c4170_0000) Humanity Phantom (small) with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c4170_0001) Humanity Phantom (small) with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c4170_0002) Humanity Phantom (small) with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4170_0003) Humanity Phantom (small) with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4170_0010) Humanity Phantom (small) with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c4170_0012) Humanity Phantom (small) with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c4170_0015) Humanity Phantom (small) with (c2900) Skeleton[54] ai = 290000; param = 290000
+Replacing (c4171_0000) Humanity Phantom (medium) with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4171_0001) Humanity Phantom (medium) with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c4171_0002) Humanity Phantom (medium) with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c4171_0003) Humanity Phantom (medium) with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c4171_0004) Humanity Phantom (medium) with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4171_0005) Humanity Phantom (medium) with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c4171_0006) Humanity Phantom (medium) with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c4171_0007) Humanity Phantom (medium) with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c4171_0008) Humanity Phantom (medium) with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c4171_0009) Humanity Phantom (medium) with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c4171_0010) Humanity Phantom (medium) with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c4171_0011) Humanity Phantom (medium) with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c4171_0012) Humanity Phantom (medium) with (c2900) Skeleton[54] ai = 290003; param = 290002
+Replacing (c4171_0013) Humanity Phantom (medium) with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c4171_0014) Humanity Phantom (medium) with (c2900) Skeleton[54] ai = 290004; param = 290002
+Replacing (c4171_0015) Humanity Phantom (medium) with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c4171_0016) Humanity Phantom (medium) with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c4172_0000) Humanity Phantom (large) with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c4172_0001) Humanity Phantom (large) with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c4172_0002) Humanity Phantom (large) with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c4172_0003) Humanity Phantom (large) with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4172_0004) Humanity Phantom (large) with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c4172_0005) Humanity Phantom (large) with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4172_0006) Humanity Phantom (large) with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c4172_0007) Humanity Phantom (large) with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c4172_0008) Humanity Phantom (large) with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4172_0009) Humanity Phantom (large) with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c4172_0010) Humanity Phantom (large) with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4172_0012) Humanity Phantom (large) with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c4172_0013) Humanity Phantom (large) with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c4172_0014) Humanity Phantom (large) with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c4172_0015) Humanity Phantom (large) with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c4172_0016) Humanity Phantom (large) with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c4172_0017) Humanity Phantom (large) with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c4172_0018) Humanity Phantom (large) with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c4172_0020) Humanity Phantom (large) with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c4180_0000) Chained Prisoner with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c4180_0003) Chained Prisoner with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c4180_0005) Chained Prisoner with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c4180_0006) Chained Prisoner with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c4190_0001) DLC Dog with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c4190_0002) DLC Dog with (c2900) Skeleton[54] ai = 290000; param = 290000
+Replacing (c4190_0003) DLC Dog with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c4190_0004) DLC Dog with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c4190_0005) DLC Dog with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c4500_0000) Manus, Father of the Abyss with (c5200) Centipede Demon[105] ai = 520000; param = 520000
+Replacing (c4510_0001) Black Dragon Kalameet with (c5271) Super Ornstein[114] ai = 527100; param = 527100
+---------------------
+Randomizing m12_00_00_01 - DarkRoot Garden #2
+Replacing (c2270_0000) Mushroom Parent with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2270_0001) Mushroom Parent with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2270_0002) Mushroom Parent with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2270_0003) Mushroom Parent with (c3500) Mass of Souls[89] ai = 350000; param = 350000
+Replacing (c2280_0000) Mushroom Child with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2280_0001) Mushroom Child with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2280_0002) Mushroom Child with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2280_0003) Mushroom Child with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2280_0004) Mushroom Child with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2280_0005) Mushroom Child with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2280_0006) Mushroom Child with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2280_0007) Mushroom Child with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2280_0008) Mushroom Child with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2280_0009) Mushroom Child with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2280_0010) Mushroom Child with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2280_0011) Mushroom Child with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2330_0000) Demonic Foliage with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2330_0001) Demonic Foliage with (c2570) Berenike Knight[31] ai = 257000; param = 257000
+Replacing (c2330_0002) Demonic Foliage with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2330_0003) Demonic Foliage with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2330_0004) Demonic Foliage with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2330_0005) Demonic Foliage with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2330_0006) Demonic Foliage with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2330_0007) Demonic Foliage with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2330_0008) Demonic Foliage with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2330_0009) Demonic Foliage with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2330_0010) Demonic Foliage with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2330_0011) Demonic Foliage with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2330_0012) Demonic Foliage with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c2330_0013) Demonic Foliage with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2330_0014) Demonic Foliage with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2330_0015) Demonic Foliage with (c2300) Titanite Demon[13] ai = 230000; param = 230000
+Replacing (c2330_0016) Demonic Foliage with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2330_0017) Demonic Foliage with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2330_0018) Demonic Foliage with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2330_0019) Demonic Foliage with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2330_0020) Demonic Foliage with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2330_0021) Demonic Foliage with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2330_0022) Demonic Foliage with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2330_0023) Demonic Foliage with (c2540) Armored Hollow[28] ai = 254002; param = 254012
+Replacing (c2330_0024) Demonic Foliage with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2330_0025) Demonic Foliage with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2330_0026) Demonic Foliage with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2380_0000) Giant Stone Knight with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2380_0001) Giant Stone Knight with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2380_0002) Giant Stone Knight with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2380_0003) Giant Stone Knight with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2380_0004) Giant Stone Knight with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2380_0005) Giant Stone Knight with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2380_0006) Giant Stone Knight with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2380_0007) Giant Stone Knight with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2380_0008) Giant Stone Knight with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2380_0009) Giant Stone Knight with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2380_0010) Giant Stone Knight with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2710_0000) Crystal Golem with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2710_0001) Crystal Golem with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2710_0002) Crystal Golem with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2710_0003) Crystal Golem with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2711_0000) Golden Crystal Golem with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2795_0000) Black Knight with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c3230_0000) Moonlight Butterfly with (c5270) Ornstein[113] ai = 527000; param = 527000 changed position
+Replacing (c3300_0000) Crystal Lizard with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c3350_0000) Possessed Tree with (c2570) Berenike Knight[31] ai = 257001; param = 257001
+Replacing (c3350_0001) Possessed Tree with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3370_0000) Tree Lizard with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3370_0002) Tree Lizard with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c3410_0000) Frog-Ray with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c3410_0001) Frog-Ray with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3410_0002) Frog-Ray with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c3410_0003) Frog-Ray with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c3410_0004) Frog-Ray with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c3530_0000) Hydra with (c5260) Gaping Dragon[112] ai = 526000; param = 526000 changed position
+Replacing (c5210_0000) Sif with (c5290) Seath the Scaleless[116] ai = 529000; param = 529000
+Replacing (c5360_0000) Great Feline with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c5360_0001) Great Feline with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c5360_0002) Great Feline with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+---------------------
+Randomizing m13_00_00_00 - Catacombs
+Replacing (c2300_0000) Titanite Demon with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2650_0000) Necromancer with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2650_0001) Necromancer with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2650_0002) Necromancer with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2650_0003) Necromancer with (c2410) Silver Knight[22] ai = 241003; param = 241003
+Replacing (c2650_0004) Necromancer with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2650_0005) Necromancer with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2794_0000) Black Knight with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2900_0000) Skeleton with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2900_0001) Skeleton with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2900_0002) Skeleton with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2900_0003) Skeleton with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2900_0004) Skeleton with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2900_0005) Skeleton with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2900_0006) Skeleton with (c3480) Chaos Bug[86] ai = 348000; param = 348000
+Replacing (c2900_0007) Skeleton with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2900_0008) Skeleton with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c2900_0009) Skeleton with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2900_0010) Skeleton with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2900_0011) Skeleton with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2900_0012) Skeleton with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2900_0013) Skeleton with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2900_0014) Skeleton with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2900_0015) Skeleton with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2900_0016) Skeleton with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2900_0017) Skeleton with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2900_0018) Skeleton with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2900_0019) Skeleton with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2900_0020) Skeleton with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2900_0021) Skeleton with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2900_0022) Skeleton with (c2380) Giant Stone Knight[19] ai = 238000; param = 238000
+Replacing (c2900_0023) Skeleton with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2900_0024) Skeleton with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2900_0025) Skeleton with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2900_0026) Skeleton with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c2900_0027) Skeleton with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2900_0028) Skeleton with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2900_0029) Skeleton with (c2380) Giant Stone Knight[19] ai = 238000; param = 238000
+Replacing (c2900_0030) Skeleton with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2900_0031) Skeleton with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2900_0032) Skeleton with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2900_0033) Skeleton with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2900_0034) Skeleton with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c2900_0035) Skeleton with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2900_0036) Skeleton with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2900_0037) Skeleton with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2900_0038) Skeleton with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2900_0039) Skeleton with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2900_0040) Skeleton with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c2900_0041) Skeleton with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2900_0042) Skeleton with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2900_0043) Skeleton with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2900_0044) Skeleton with (c2410) Silver Knight[22] ai = 241004; param = 241004
+Replacing (c2900_0045) Skeleton with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2900_0046) Skeleton with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2900_0047) Skeleton with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2900_0048) Skeleton with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2900_0049) Skeleton with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2900_0052) Skeleton with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2900_0053) Skeleton with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2900_0054) Skeleton with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2900_0055) Skeleton with (c2410) Silver Knight[22] ai = 241003; param = 241003
+Replacing (c2900_0056) Skeleton with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2900_0057) Skeleton with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2900_0058) Skeleton with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2910_0001) Giant Skeleton with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Did not replace (c2920_0000) Vamos - c=-1
+Replacing (c2930_0000) Bonewheel Skeleton with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2930_0001) Bonewheel Skeleton with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2930_0002) Bonewheel Skeleton with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2930_0003) Bonewheel Skeleton with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2930_0004) Bonewheel Skeleton with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c2930_0005) Bonewheel Skeleton with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2930_0006) Bonewheel Skeleton with (c2540) Armored Hollow[28] ai = 254002; param = 254012
+Replacing (c2930_0007) Bonewheel Skeleton with (c2380) Giant Stone Knight[19] ai = 238000; param = 238000
+Replacing (c2930_0008) Bonewheel Skeleton with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2930_0009) Bonewheel Skeleton with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c3300_0000) Crystal Lizard with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c3300_0001) Crystal Lizard with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c3320_0000) Pinwheel with (c5271) Super Ornstein[114] ai = 527100; param = 527100
+---------------------
+Randomizing m13_01_00_00 - Tomb of the Giants
+Replacing (c2795_0000) Black Knight with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c2910_0000) Giant Skeleton with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2910_0001) Giant Skeleton with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2910_0002) Giant Skeleton with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2910_0003) Giant Skeleton with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2910_0004) Giant Skeleton with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2910_0005) Giant Skeleton with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2910_0006) Giant Skeleton with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2910_0007) Giant Skeleton with (c3461) Armored Tusk (Dukes)[84] ai = 346100; param = 346100
+Replacing (c2910_0008) Giant Skeleton with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2910_0009) Giant Skeleton with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2910_0010) Giant Skeleton with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2910_0011) Giant Skeleton with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c2910_0012) Giant Skeleton with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2910_0013) Giant Skeleton with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2910_0014) Giant Skeleton with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2910_0015) Giant Skeleton with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2910_0016) Giant Skeleton with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2910_0017) Giant Skeleton with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2910_0018) Giant Skeleton with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2910_0022) Giant Skeleton with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c2910_0023) Giant Skeleton with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2910_0024) Giant Skeleton with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2910_0025) Giant Skeleton with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2910_0026) Giant Skeleton with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2940_0000) Skeleton Baby with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2940_0001) Skeleton Baby with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2940_0002) Skeleton Baby with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2940_0003) Skeleton Baby with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2940_0004) Skeleton Baby with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2940_0005) Skeleton Baby with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2940_0006) Skeleton Baby with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c2940_0007) Skeleton Baby with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2940_0008) Skeleton Baby with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2950_0000) Skeleton Beast with (c2380) Giant Stone Knight[19] ai = 238000; param = 238000
+Replacing (c2950_0001) Skeleton Beast with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2950_0002) Skeleton Beast with (c3350) Possessed Tree[74] ai = 335000; param = 335000
+Replacing (c2950_0003) Skeleton Beast with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2950_0004) Skeleton Beast with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2950_0005) Skeleton Beast with (c3480) Chaos Bug[86] ai = 348000; param = 348000
+Replacing (c2950_0006) Skeleton Beast with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2950_0007) Skeleton Beast with (c3350) Possessed Tree[74] ai = 335000; param = 335000
+Replacing (c2950_0008) Skeleton Beast with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2950_0009) Skeleton Beast with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c2950_0010) Skeleton Beast with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2950_0011) Skeleton Beast with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2960_0000) Bone Tower with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2960_0001) Bone Tower with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2960_0002) Bone Tower with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2960_0003) Bone Tower with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2960_0004) Bone Tower with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2960_0005) Bone Tower with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2960_0006) Bone Tower with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2960_0007) Bone Tower with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c2960_0008) Bone Tower with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2960_0009) Bone Tower with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2960_0010) Bone Tower with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c2960_0011) Bone Tower with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2960_0012) Bone Tower with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2960_0013) Bone Tower with (c3480) Chaos Bug[86] ai = 348000; param = 348000
+Replacing (c2960_0014) Bone Tower with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2960_0015) Bone Tower with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c3300_0000) Crystal Lizard with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c3320_0000) Pinwheel with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c3320_0001) Pinwheel with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c3320_0002) Pinwheel with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c3320_0003) Pinwheel with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c3320_0004) Pinwheel with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c5220_0000) Gravelord Nito with (c3471) Sanctuary Guardian[85] ai = 347100; param = 347100
+Replacing (c5220_0001) Gravelord Nito with (c2730) Crossbreed Priscilla[41] ai = 273000; param = 273000
+---------------------
+Randomizing m13_02_00_00 - Great Hollow & Ash Lake
+Replacing (c2270_0000) Mushroom Parent with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2270_0001) Mushroom Parent with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2270_0002) Mushroom Parent with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2270_0003) Mushroom Parent with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2280_0000) Mushroom Child with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2280_0001) Mushroom Child with (c2060) Infested Ghoul[4] ai = 206001; param = 206001
+Replacing (c2280_0002) Mushroom Child with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2280_0003) Mushroom Child with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2280_0004) Mushroom Child with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2280_0005) Mushroom Child with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3250_0000) Man-Eater Shell with (c3500) Mass of Souls[89] ai = 350000; param = 350000
+Replacing (c3250_0001) Man-Eater Shell with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c3250_0002) Man-Eater Shell with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c3270_0000) Basilisk with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c3270_0001) Basilisk with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c3270_0002) Basilisk with (c2560) Balder Knight[30] ai = 256000; param = 256000
+Replacing (c3270_0003) Basilisk with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c3270_0004) Basilisk with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c3270_0005) Basilisk with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c3270_0006) Basilisk with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3270_0007) Basilisk with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c3270_0008) Basilisk with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c3270_0009) Basilisk with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c3270_0010) Basilisk with (c2570) Berenike Knight[31] ai = 257000; param = 257000
+Replacing (c3270_0011) Basilisk with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c3270_0012) Basilisk with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c3270_0013) Basilisk with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c3530_0000) Hydra with (c2240) Capra Demon[8] ai = 224000; param = 224000 changed position
+---------------------
+Randomizing m14_00_00_00 - Blighttown
+Replacing (c2060_0000) Infested Ghoul with (c2410) Silver Knight[22] ai = 241004; param = 241004
+Replacing (c2060_0001) Infested Ghoul with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2060_0002) Infested Ghoul with (c2550) Undead Soldier[29] ai = 255000; param = 255000
+Replacing (c2060_0003) Infested Ghoul with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2060_0004) Infested Ghoul with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2060_0005) Infested Ghoul with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c2060_0006) Infested Ghoul with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2060_0007) Infested Ghoul with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2060_0008) Infested Ghoul with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2060_0009) Infested Ghoul with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2060_0010) Infested Ghoul with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2060_0011) Infested Ghoul with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2060_0012) Infested Ghoul with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2060_0013) Infested Ghoul with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2060_0014) Infested Ghoul with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2060_0015) Infested Ghoul with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2060_0016) Infested Ghoul with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2060_0017) Infested Ghoul with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2060_0018) Infested Ghoul with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c2060_0019) Infested Ghoul with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2060_0020) Infested Ghoul with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2060_0021) Infested Ghoul with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2060_0022) Infested Ghoul with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2060_0023) Infested Ghoul with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2060_0024) Infested Ghoul with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2060_0025) Infested Ghoul with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2060_0026) Infested Ghoul with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2530_0000) Blowdart Sniper with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c2530_0001) Blowdart Sniper with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2530_0002) Blowdart Sniper with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2530_0003) Blowdart Sniper with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2530_0004) Blowdart Sniper with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2530_0005) Blowdart Sniper with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2530_0006) Blowdart Sniper with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2530_0007) Blowdart Sniper with (c2790) Black Knight[43] ai = 279002; param = 279020
+Replacing (c2530_0008) Blowdart Sniper with (c2900) Skeleton[54] ai = 290004; param = 290002
+Replacing (c2810_0000) Infested Barbarian (Club) with (c2790) Black Knight[43] ai = 279000; param = 279000
+Replacing (c2810_0001) Infested Barbarian (Club) with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2810_0002) Infested Barbarian (Club) with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c2810_0003) Infested Barbarian (Club) with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2810_0004) Infested Barbarian (Club) with (c2790) Black Knight[43] ai = 279003; param = 279030
+Replacing (c2810_0005) Infested Barbarian (Club) with (c2840) Engorged Zombie[51] ai = 284000; param = 284000
+Replacing (c2810_0006) Infested Barbarian (Club) with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2810_0007) Infested Barbarian (Club) with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2810_0008) Infested Barbarian (Club) with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2810_0010) Infested Barbarian (Club) with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2810_0011) Infested Barbarian (Club) with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2810_0012) Infested Barbarian (Club) with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c2811_0000) Infested Barbarian (Boulder) with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2811_0001) Infested Barbarian (Boulder) with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2811_0002) Infested Barbarian (Boulder) with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2811_0003) Infested Barbarian (Boulder) with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2811_0004) Infested Barbarian (Boulder) with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3090_0034) Giant Mosquito with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3090_0036) Giant Mosquito with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3090_0058) Giant Mosquito with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3090_0059) Giant Mosquito with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c3090_0079) Giant Mosquito with (c2790) Black Knight[43] ai = 279003; param = 279030
+Replacing (c3090_0081) Giant Mosquito with (c3480) Chaos Bug[86] ai = 348000; param = 348000
+Replacing (c3090_0085) Giant Mosquito with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3090_0086) Giant Mosquito with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3090_0090) Giant Mosquito with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3090_0091) Giant Mosquito with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Did not replace (c3210_0000) Egg Carrier - c=-1
+Replacing (c3210_0002) Egg Carrier with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3210_0003) Egg Carrier with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3341_0000) Flaming Attack Dog with (c2790) Black Knight[43] ai = 279000; param = 279000
+Replacing (c3341_0001) Flaming Attack Dog with (c2550) Undead Soldier[29] ai = 255001; param = 255001
+Replacing (c3341_0002) Flaming Attack Dog with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c3341_0003) Flaming Attack Dog with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c3341_0004) Flaming Attack Dog with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c3341_0005) Flaming Attack Dog with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3341_0006) Flaming Attack Dog with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c3341_0007) Flaming Attack Dog with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3341_0008) Flaming Attack Dog with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c3341_0009) Flaming Attack Dog with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c3341_0010) Flaming Attack Dog with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c3341_0011) Flaming Attack Dog with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c3380_0000) Giant Leech with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3380_0003) Giant Leech with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c3380_0004) Giant Leech with (c2550) Undead Soldier[29] ai = 255001; param = 255001
+Replacing (c3380_0011) Giant Leech with (c2900) Skeleton[54] ai = 290000; param = 290000
+Replacing (c3380_0015) Giant Leech with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3380_0016) Giant Leech with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c3380_0017) Giant Leech with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c3380_0020) Giant Leech with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c3380_0022) Giant Leech with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c3380_0023) Giant Leech with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c3380_0024) Giant Leech with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c3380_0025) Giant Leech with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c3380_0026) Giant Leech with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c3380_0027) Giant Leech with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3380_0028) Giant Leech with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c3380_0029) Giant Leech with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c3380_0030) Giant Leech with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3380_0031) Giant Leech with (c2410) Silver Knight[22] ai = 241000; param = 241000
+Replacing (c3380_0032) Giant Leech with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3380_0033) Giant Leech with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3380_0035) Giant Leech with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3380_0036) Giant Leech with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c3380_0037) Giant Leech with (c2900) Skeleton[54] ai = 290004; param = 290002
+Replacing (c3400_0000) Crag-Spider with (c3480) Chaos Bug[86] ai = 348000; param = 348000
+Replacing (c3400_0001) Crag-Spider with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c3400_0002) Crag-Spider with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c3400_0003) Crag-Spider with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c3400_0004) Crag-Spider with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c3400_0005) Crag-Spider with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3400_0006) Crag-Spider with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3400_0007) Crag-Spider with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c3400_0008) Crag-Spider with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c3400_0009) Crag-Spider with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c3400_0010) Crag-Spider with (c2550) Undead Soldier[29] ai = 255001; param = 255001
+Replacing (c3400_0011) Crag-Spider with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3400_0012) Crag-Spider with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c3400_0013) Crag-Spider with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c3400_0014) Crag-Spider with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c3400_0015) Crag-Spider with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c3400_0016) Crag-Spider with (c3250) Man-Eater Shell[67] ai = 325000; param = 325000
+Replacing (c3400_0018) Crag-Spider with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c3400_0019) Crag-Spider with (c3220) Vile Maggot[64] ai = 322000; param = 322000
+Replacing (c5240_0000) Parasitic Wall Hugger with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c5280_0000) Quelaag with (c4500) Manus, Father of the Abyss[103] ai = 450000; param = 450000
+Did not replace (c5340_0000) The Fair Lady - c=-1
+---------------------
+Randomizing m14_01_00_00 - Demon Ruins & Lost Izalith
+Replacing (c2231_0000) Demon Firesage with (c2250) Taurus Demon[9] ai = 225000; param = 225000
+Replacing (c2240_0000) Capra Demon with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2240_0001) Capra Demon with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2240_0002) Capra Demon with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2240_0003) Capra Demon with (c3520) Drake[90] ai = 352002; param = 352002
+Replacing (c2240_0004) Capra Demon with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2240_0005) Capra Demon with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2240_0006) Capra Demon with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c2240_0007) Capra Demon with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2240_0008) Capra Demon with (c2380) Giant Stone Knight[19] ai = 238000; param = 238000
+Replacing (c2240_0009) Capra Demon with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2240_0010) Capra Demon with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2240_0011) Capra Demon with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2250_0000) Taurus Demon with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2250_0001) Taurus Demon with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c2250_0002) Taurus Demon with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2250_0003) Taurus Demon with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2250_0004) Taurus Demon with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2250_0005) Taurus Demon with (c3461) Armored Tusk (Dukes)[84] ai = 346100; param = 346100
+Replacing (c2250_0006) Taurus Demon with (c2900) Skeleton[54] ai = 290000; param = 290000
+Replacing (c2250_0007) Taurus Demon with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2250_0008) Taurus Demon with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2250_0009) Taurus Demon with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2300_0000) Titanite Demon with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2430_0000) Demonic Statue with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2430_0003) Demonic Statue with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2430_0004) Demonic Statue with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2430_0005) Demonic Statue with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2430_0006) Demonic Statue with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2430_0007) Demonic Statue with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2430_0008) Demonic Statue with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2430_0009) Demonic Statue with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2430_0010) Demonic Statue with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2430_0011) Demonic Statue with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2430_0012) Demonic Statue with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2430_0013) Demonic Statue with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2430_0014) Demonic Statue with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2430_0015) Demonic Statue with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2430_0016) Demonic Statue with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2430_0018) Demonic Statue with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2430_0020) Demonic Statue with (c2910) Giant Skeleton[55] ai = 291001; param = 291000
+Replacing (c2430_0021) Demonic Statue with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2430_0022) Demonic Statue with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2430_0023) Demonic Statue with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2430_0024) Demonic Statue with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2430_0025) Demonic Statue with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2430_0026) Demonic Statue with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2430_0027) Demonic Statue with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2430_0028) Demonic Statue with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2430_0029) Demonic Statue with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2430_0030) Demonic Statue with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2430_0031) Demonic Statue with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2430_0032) Demonic Statue with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2430_0033) Demonic Statue with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c2430_0034) Demonic Statue with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2430_0035) Demonic Statue with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2430_0036) Demonic Statue with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2430_0037) Demonic Statue with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2430_0038) Demonic Statue with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2430_0039) Demonic Statue with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2430_0040) Demonic Statue with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2430_0041) Demonic Statue with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2430_0042) Demonic Statue with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2430_0043) Demonic Statue with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2430_0044) Demonic Statue with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c3210_0000) Egg Carrier with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c3210_0001) Egg Carrier with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c3210_0002) Egg Carrier with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c3210_0003) Egg Carrier with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c3210_0004) Egg Carrier with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c3210_0005) Egg Carrier with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3210_0006) Egg Carrier with (c2900) Skeleton[54] ai = 290002; param = 290000
+Replacing (c3210_0007) Egg Carrier with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c3210_0008) Egg Carrier with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c3210_0009) Egg Carrier with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c3210_0010) Egg Carrier with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c3210_0011) Egg Carrier with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c3210_0012) Egg Carrier with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3210_0013) Egg Carrier with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c3240_0001) Chaos Eater with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c3240_0002) Chaos Eater with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3240_0003) Chaos Eater with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c3240_0004) Chaos Eater with (c2500) Hollow[24] ai = 250000; param = 250000
+Replacing (c3240_0005) Chaos Eater with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c3240_0006) Chaos Eater with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c3240_0007) Chaos Eater with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3240_0008) Chaos Eater with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c3240_0009) Chaos Eater with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c3240_0010) Chaos Eater with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c3240_0011) Chaos Eater with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c3300_0000) Crystal Lizard with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3390_0001) Burrowing Rockworm with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c3390_0002) Burrowing Rockworm with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c3390_0003) Burrowing Rockworm with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c3390_0004) Burrowing Rockworm with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c3390_0005) Burrowing Rockworm with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c3390_0006) Burrowing Rockworm with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c3390_0007) Burrowing Rockworm with (c2540) Armored Hollow[28] ai = 254002; param = 254012
+Replacing (c3421_0000) Bounding Demon of Izalith with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c3421_0001) Bounding Demon of Izalith with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c3421_0002) Bounding Demon of Izalith with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3421_0003) Bounding Demon of Izalith with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3421_0004) Bounding Demon of Izalith with (c2380) Giant Stone Knight[19] ai = 238000; param = 238000
+Replacing (c3421_0005) Bounding Demon of Izalith with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c3421_0006) Bounding Demon of Izalith with (c2500) Hollow[24] ai = 250000; param = 250000
+Replacing (c3421_0007) Bounding Demon of Izalith with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3421_0008) Bounding Demon of Izalith with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3421_0009) Bounding Demon of Izalith with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c3421_0010) Bounding Demon of Izalith with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c3421_0011) Bounding Demon of Izalith with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c3421_0012) Bounding Demon of Izalith with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3421_0013) Bounding Demon of Izalith with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3421_0014) Bounding Demon of Izalith with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c3421_0015) Bounding Demon of Izalith with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3421_0016) Bounding Demon of Izalith with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c3421_0017) Bounding Demon of Izalith with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c3421_0018) Bounding Demon of Izalith with (c3461) Armored Tusk (Dukes)[84] ai = 346100; param = 346100
+Replacing (c3421_0019) Bounding Demon of Izalith with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3421_0020) Bounding Demon of Izalith with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c3421_0021) Bounding Demon of Izalith with (c2711) Golden Crystal Golem[40] ai = 271100; param = 271100
+Replacing (c3421_0022) Bounding Demon of Izalith with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c3421_0023) Bounding Demon of Izalith with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c3421_0024) Bounding Demon of Izalith with (c3461) Armored Tusk (Dukes)[84] ai = 346100; param = 346100
+Replacing (c3421_0025) Bounding Demon of Izalith with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3421_0026) Bounding Demon of Izalith with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3421_0027) Bounding Demon of Izalith with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c3421_0028) Bounding Demon of Izalith with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c3480_0000) Chaos Bug with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3480_0001) Chaos Bug with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c3480_0002) Chaos Bug with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c3480_0003) Chaos Bug with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c3480_0004) Chaos Bug with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c3480_0005) Chaos Bug with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3480_0006) Chaos Bug with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3480_0007) Chaos Bug with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c3480_0008) Chaos Bug with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c5200_0000) Centipede Demon with (c2730) Crossbreed Priscilla[41] ai = 273000; param = 273000
+Did not replace (c5230_0000) Bed of Chaos - c=-1
+Replacing (c5250_0000) Ceaseless Discharge with (c5220) Gravelord Nito[109] ai = 522000; param = 522000 changed position
+Did not replace (c5400_0000) Bed of Chaos Arm - c=-1
+Replacing (c5401_0000) Bed of Chaos Parasite with (c2231) Demon Firesage[6] ai = 223100; param = 223100 changed position
+---------------------
+Randomizing m15_00_00_00 - Sen's Fortress
+Replacing (c2300_0000) Titanite Demon with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2300_0001) Titanite Demon with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2300_0002) Titanite Demon with (c2570) Berenike Knight[31] ai = 257001; param = 257001
+Replacing (c2300_0003) Titanite Demon with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2320_0000) Iron Golem with (c5271) Super Ornstein[114] ai = 527100; param = 527100
+Replacing (c2560_0000) Balder Knight with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2560_0001) Balder Knight with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2560_0002) Balder Knight with (c3370) Tree Lizard[75] ai = 337000; param = 337000
+Replacing (c2560_0003) Balder Knight with (c2900) Skeleton[54] ai = 290000; param = 290000
+Replacing (c2570_0000) Berenike Knight with (c1200) Rat[0] ai = 120000; param = 120000
+Replacing (c2690_0000) Serpent Soldier with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2690_0001) Serpent Soldier with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2690_0002) Serpent Soldier with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2690_0003) Serpent Soldier with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2690_0004) Serpent Soldier with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2690_0005) Serpent Soldier with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2690_0006) Serpent Soldier with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2690_0007) Serpent Soldier with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2690_0008) Serpent Soldier with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2690_0009) Serpent Soldier with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2690_0010) Serpent Soldier with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2690_0011) Serpent Soldier with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c2690_0012) Serpent Soldier with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2690_0013) Serpent Soldier with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2690_0014) Serpent Soldier with (c2540) Armored Hollow[28] ai = 254002; param = 254012
+Replacing (c2690_0015) Serpent Soldier with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2690_0016) Serpent Soldier with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2690_0017) Serpent Soldier with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2690_0018) Serpent Soldier with (c2570) Berenike Knight[31] ai = 257000; param = 257000
+Replacing (c2700_0000) Serpent Mage with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2700_0001) Serpent Mage with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2700_0002) Serpent Mage with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2700_0003) Serpent Mage with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2700_0004) Serpent Mage with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2700_0005) Serpent Mage with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2700_0006) Serpent Mage with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2700_0007) Serpent Mage with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c2700_0008) Serpent Mage with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2700_0009) Serpent Mage with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c2700_0010) Serpent Mage with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2700_0011) Serpent Mage with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Did not replace (c2780_0000) Mimic - mimic mode is 0
+Replacing (c2860_0000) Giant with (c2900) Skeleton[54] ai = 290003; param = 290002
+Replacing (c2860_0001) Giant with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2860_0003) Giant with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+---------------------
+Randomizing m15_01_00_00 - Anor Londo
+Replacing (c2260_0000) Batwing Demon with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2260_0003) Batwing Demon with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2260_0004) Batwing Demon with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2260_0005) Batwing Demon with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2260_0006) Batwing Demon with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2260_0007) Batwing Demon with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2260_0008) Batwing Demon with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2260_0010) Batwing Demon with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2260_0011) Batwing Demon with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2260_0012) Batwing Demon with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2300_0000) Titanite Demon with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c2360_0000) Smough with (c5350) Bell Gargoyles[118] ai = 535000; param = 535000
+Replacing (c2360_0001) Smough with (c5210) Sif[108] ai = 521000; param = 521000
+Replacing (c2400_0000) Painting Guardian with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2400_0001) Painting Guardian with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2400_0002) Painting Guardian with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2400_0003) Painting Guardian with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2400_0004) Painting Guardian with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2400_0005) Painting Guardian with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2400_0006) Painting Guardian with (c2950) Skeleton Beast[59] ai = 295000; param = 295000
+Replacing (c2400_0007) Painting Guardian with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c2400_0008) Painting Guardian with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2400_0009) Painting Guardian with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2400_0010) Painting Guardian with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2400_0011) Painting Guardian with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2400_0012) Painting Guardian with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2400_0013) Painting Guardian with (c2410) Silver Knight[22] ai = 241000; param = 241000
+Replacing (c2400_0014) Painting Guardian with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2400_0015) Painting Guardian with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2400_0016) Painting Guardian with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2410_0000) Silver Knight with (c4160) Bloathead Sorcerer[97] ai = 416000; param = 416000
+Replacing (c2410_0001) Silver Knight with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2410_0002) Silver Knight with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2410_0003) Silver Knight with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2410_0004) Silver Knight with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2410_0005) Silver Knight with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2410_0006) Silver Knight with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2410_0007) Silver Knight with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2410_0009) Silver Knight with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c2410_0010) Silver Knight with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2410_0011) Silver Knight with (c3350) Possessed Tree[74] ai = 335000; param = 335000
+Replacing (c2410_0012) Silver Knight with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2410_0013) Silver Knight with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2410_0014) Silver Knight with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Replacing (c2410_0015) Silver Knight with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2410_0016) Silver Knight with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2410_0017) Silver Knight with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2410_0018) Silver Knight with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2410_0019) Silver Knight with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2410_0020) Silver Knight with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2410_0021) Silver Knight with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2410_0022) Silver Knight with (c2530) Blowdart Sniper[27] ai = 253002; param = 253002
+Did not replace (c2780_0000) Mimic - mimic mode is 0
+Did not replace (c2780_0001) Mimic - mimic mode is 0
+Did not replace (c2780_0002) Mimic - mimic mode is 0
+Did not replace (c2780_0003) Mimic - mimic mode is 0
+Did not replace (c2860_0000) Giant - c=-1
+Replacing (c2870_0000) Sentinel or Royal Sentinel with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2870_0001) Sentinel or Royal Sentinel with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2870_0002) Sentinel or Royal Sentinel with (c4170) Humanity Phantom (small)[98] ai = 417000; param = 417000
+Replacing (c2870_0003) Sentinel or Royal Sentinel with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2870_0004) Sentinel or Royal Sentinel with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2870_0005) Sentinel or Royal Sentinel with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c2870_0008) Sentinel or Royal Sentinel with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2870_0009) Sentinel or Royal Sentinel with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c2870_0012) Sentinel or Royal Sentinel with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2870_0013) Sentinel or Royal Sentinel with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2870_0014) Sentinel or Royal Sentinel with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c2870_0015) Sentinel or Royal Sentinel with (c5360) Great Feline[120] ai = 536000; param = 536000
+Replacing (c2870_0016) Sentinel or Royal Sentinel with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c5270_0000) Ornstein with (c5370) Gwyn[121] ai = 537000; param = 537000
+Replacing (c5271_0000) Super Ornstein with (c2231) Demon Firesage[6] ai = 223100; param = 223100
+Replacing (c5320_0000) Gwyndolin with (c2230) Stray Demon[5] ai = 223000; param = 223000
+Replacing (c5351_0000) Lightning Gargoyles with (c5220) Gravelord Nito[109] ai = 522000; param = 522000
+Replacing (c5351_0001) Lightning Gargoyles with (c5220) Gravelord Nito[109] ai = 522000; param = 522000
+---------------------
+Randomizing m16_00_00_00 - New Londo Ruins
+Replacing (c2390_0001) Darkwraith with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c2390_0002) Darkwraith with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2390_0003) Darkwraith with (c3500) Mass of Souls[89] ai = 350000; param = 350000
+Replacing (c2390_0004) Darkwraith with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2390_0005) Darkwraith with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2390_0006) Darkwraith with (c2410) Silver Knight[22] ai = 241000; param = 241000
+Replacing (c2390_0007) Darkwraith with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2390_0008) Darkwraith with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2390_0009) Darkwraith with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2390_0010) Darkwraith with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2390_0011) Darkwraith with (c2060) Infested Ghoul[4] ai = 206001; param = 206001
+Replacing (c2390_0012) Darkwraith with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2390_0013) Darkwraith with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2390_0014) Darkwraith with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2390_0015) Darkwraith with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2390_0016) Darkwraith with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c2390_0017) Darkwraith with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2500_0000) Hollow with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c2500_0001) Hollow with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2500_0002) Hollow with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2500_0003) Hollow with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c2500_0004) Hollow with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2500_0005) Hollow with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2500_0006) Hollow with (c3240) Chaos Eater[66] ai = 324000; param = 324000
+Replacing (c2500_0007) Hollow with (c3410) Frog-Ray[79] ai = 341000; param = 341000
+Replacing (c2500_0008) Hollow with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2500_0009) Hollow with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2500_0010) Hollow with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2500_0011) Hollow with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2500_0012) Hollow with (c2550) Undead Soldier[29] ai = 255001; param = 255001
+Replacing (c2500_0013) Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2500_0014) Hollow with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2670_0000) Ghost with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2670_0001) Ghost with (c3400) Crag-Spider[78] ai = 340000; param = 340000
+Replacing (c2670_0002) Ghost with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2670_0003) Ghost with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2670_0004) Ghost with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2670_0005) Ghost with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c2670_0006) Ghost with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2670_0007) Ghost with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2670_0008) Ghost with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c2670_0009) Ghost with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2670_0010) Ghost with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2670_0011) Ghost with (c2410) Silver Knight[22] ai = 241004; param = 241004
+Replacing (c2670_0012) Ghost with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2670_0013) Ghost with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2670_0014) Ghost with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2670_0015) Ghost with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2670_0016) Ghost with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2670_0017) Ghost with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2670_0018) Ghost with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c2670_0019) Ghost with (c2370) Channeler[18] ai = 237000; param = 237000
+Replacing (c2670_0020) Ghost with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2670_0021) Ghost with (c3270) Basilisk[68] ai = 327000; param = 327000
+Replacing (c2670_0022) Ghost with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c2670_0023) Ghost with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2670_0024) Ghost with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2670_0025) Ghost with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c2670_0026) Ghost with (c2800) Undead Crystal Soldier[47] ai = 280001; param = 280001
+Replacing (c2670_0027) Ghost with (c2800) Undead Crystal Soldier[47] ai = 280000; param = 280000
+Replacing (c2670_0028) Ghost with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2670_0029) Ghost with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2670_0030) Ghost with (c2520) Undead Assassin[26] ai = 252000; param = 252000
+Replacing (c2670_0031) Ghost with (c2410) Silver Knight[22] ai = 241003; param = 241003
+Replacing (c2680_0000) Lightning Ghost with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2680_0001) Lightning Ghost with (c2410) Silver Knight[22] ai = 241000; param = 241000
+Replacing (c3420_0000) Undead Dragon with (c4500) Manus, Father of the Abyss[103] ai = 450000; param = 450000
+Replacing (c3500_0000) Mass of Souls with (c4120) Stone Guardian[94] ai = 412000; param = 412000
+Replacing (c3500_0001) Mass of Souls with (c2410) Silver Knight[22] ai = 241003; param = 241003
+Replacing (c3520_0007) Drake with (c2550) Undead Soldier[29] ai = 255002; param = 255002
+Replacing (c3520_0009) Drake with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c3520_0010) Drake with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c3520_0011) Drake with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c3520_0012) Drake with (c3090) Giant Mosquito[61] ai = 309000; param = 309000
+Replacing (c3520_0013) Drake with (c2700) Serpent Mage[38] ai = 270000; param = 270000
+Replacing (c5390_0000) Four Kings with (c2320) Iron Golem[15] ai = 232000; param = 232000
+Replacing (c5390_0001) Four Kings with (c5390) Four Kings[122] ai = 539000; param = 539001
+Replacing (c5390_0002) Four Kings with (c5351) Lightning Gargoyles[119] ai = 535100; param = 535100
+Replacing (c5390_0003) Four Kings with (c5210) Sif[108] ai = 521000; param = 521000
+Replacing (c5390_0004) Four Kings with (c5351) Lightning Gargoyles[119] ai = 535100; param = 535100
+---------------------
+Randomizing m17_00_00_00 - Duke's Archives & Crystal Cave
+Replacing (c2370_0000) Channeler with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c2370_0001) Channeler with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2370_0002) Channeler with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2370_0003) Channeler with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2370_0004) Channeler with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2370_0005) Channeler with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2370_0006) Channeler with (c2900) Skeleton[54] ai = 290002; param = 290000
+Replacing (c2690_0002) Serpent Soldier with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2690_0003) Serpent Soldier with (c2790) Black Knight[43] ai = 279000; param = 279000
+Replacing (c2690_0014) Serpent Soldier with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c2690_0015) Serpent Soldier with (c2840) Engorged Zombie[51] ai = 284001; param = 284001
+Replacing (c2700_0000) Serpent Mage with (c4171) Humanity Phantom (medium)[99] ai = 417100; param = 417100
+Replacing (c2710_0000) Crystal Golem with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2710_0001) Crystal Golem with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2710_0002) Crystal Golem with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2710_0004) Crystal Golem with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c2710_0005) Crystal Golem with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c2710_0006) Crystal Golem with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2710_0008) Crystal Golem with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2710_0009) Crystal Golem with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2710_0010) Crystal Golem with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2710_0011) Crystal Golem with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2710_0012) Crystal Golem with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2710_0013) Crystal Golem with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2710_0014) Crystal Golem with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2710_0015) Crystal Golem with (c3341) Flaming Attack Dog[73] ai = 334100; param = 334100
+Replacing (c2710_0016) Crystal Golem with (c2410) Silver Knight[22] ai = 241000; param = 241000
+Replacing (c2710_0017) Crystal Golem with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2710_0018) Crystal Golem with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2711_0000) Golden Crystal Golem with (c3500) Mass of Souls[89] ai = 350000; param = 350000
+Replacing (c2711_0001) Golden Crystal Golem with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2711_0002) Golden Crystal Golem with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Did not replace (c2780_0000) Mimic - mimic mode is 0
+Did not replace (c2780_0001) Mimic - mimic mode is 0
+Replacing (c2800_0000) Undead Crystal Soldier with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2800_0003) Undead Crystal Soldier with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c2800_0004) Undead Crystal Soldier with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2800_0005) Undead Crystal Soldier with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c2800_0006) Undead Crystal Soldier with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c2800_0007) Undead Crystal Soldier with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2800_0008) Undead Crystal Soldier with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2800_0009) Undead Crystal Soldier with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2800_0010) Undead Crystal Soldier with (c2790) Black Knight[43] ai = 279001; param = 279001
+Replacing (c2800_0011) Undead Crystal Soldier with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2800_0012) Undead Crystal Soldier with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2800_0013) Undead Crystal Soldier with (c2540) Armored Hollow[28] ai = 254002; param = 254012
+Replacing (c2800_0014) Undead Crystal Soldier with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2800_0015) Undead Crystal Soldier with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2800_0016) Undead Crystal Soldier with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2800_0017) Undead Crystal Soldier with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2800_0018) Undead Crystal Soldier with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2800_0019) Undead Crystal Soldier with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c2800_0020) Undead Crystal Soldier with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2800_0021) Undead Crystal Soldier with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2800_0022) Undead Crystal Soldier with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2800_0023) Undead Crystal Soldier with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2800_0024) Undead Crystal Soldier with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2800_0025) Undead Crystal Soldier with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2800_0026) Undead Crystal Soldier with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2800_0027) Undead Crystal Soldier with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2800_0028) Undead Crystal Soldier with (c2840) Engorged Zombie[51] ai = 284000; param = 284000
+Replacing (c2800_0029) Undead Crystal Soldier with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2800_0030) Undead Crystal Soldier with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c2800_0031) Undead Crystal Soldier with (c2900) Skeleton[54] ai = 290003; param = 290002
+Replacing (c2800_0032) Undead Crystal Soldier with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c2800_0033) Undead Crystal Soldier with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2800_0034) Undead Crystal Soldier with (c2830) Phalanx[50] ai = 283001; param = 283010
+Replacing (c2800_0035) Undead Crystal Soldier with (c2900) Skeleton[54] ai = 290001; param = 290000
+Replacing (c2800_0036) Undead Crystal Soldier with (c2540) Armored Hollow[28] ai = 254001; param = 254011
+Replacing (c2800_0037) Undead Crystal Soldier with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2800_0038) Undead Crystal Soldier with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c2800_0039) Undead Crystal Soldier with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2800_0042) Undead Crystal Soldier with (c2400) Painting Guardian[21] ai = 240000; param = 240000
+Replacing (c2800_0043) Undead Crystal Soldier with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c2800_0044) Undead Crystal Soldier with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c2800_0045) Undead Crystal Soldier with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c2800_0046) Undead Crystal Soldier with (c3480) Chaos Bug[86] ai = 348000; param = 348001
+Replacing (c3230_0000) Moonlight Butterfly with (c5290) Seath the Scaleless[116] ai = 529000; param = 529000
+Replacing (c3230_0001) Moonlight Butterfly with (c5270) Ornstein[113] ai = 527000; param = 527000
+Replacing (c3230_0002) Moonlight Butterfly with (c3320) Pinwheel[70] ai = 332002; param = 332002
+Replacing (c3250_0000) Man-Eater Shell with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c3250_0001) Man-Eater Shell with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c3250_0002) Man-Eater Shell with (c2910) Giant Skeleton[55] ai = 291000; param = 291000
+Replacing (c3250_0003) Man-Eater Shell with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c3250_0004) Man-Eater Shell with (c2650) Necromancer[33] ai = 265000; param = 265000
+Replacing (c3250_0005) Man-Eater Shell with (c2410) Silver Knight[22] ai = 241004; param = 241004
+Replacing (c3300_0000) Crystal Lizard with (c2270) Mushroom Parent[11] ai = 227000; param = 227000
+Replacing (c3300_0001) Crystal Lizard with (c4150) Bloathead[96] ai = 415000; param = 415000
+Replacing (c3300_0002) Crystal Lizard with (c3380) Giant Leech[76] ai = 338000; param = 338000
+Replacing (c3300_0003) Crystal Lizard with (c2810) Infested Barbarian (Club)[48] ai = 281000; param = 281000
+Replacing (c3330_0000) Pisaca with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3330_0001) Pisaca with (c4180) Chained Prisoner[101] ai = 418000; param = 418000
+Replacing (c3330_0002) Pisaca with (c3210) Egg Carrier[63] ai = 321000; param = 321000
+Replacing (c3330_0003) Pisaca with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c3330_0004) Pisaca with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3330_0005) Pisaca with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3330_0006) Pisaca with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c3330_0007) Pisaca with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c3330_0008) Pisaca with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3330_0009) Pisaca with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c3330_0010) Pisaca with (c4190) DLC Dog[102] ai = 419000; param = 419000
+Replacing (c3330_0012) Pisaca with (c2811) Infested Barbarian (Boulder)[49] ai = 281100; param = 281100
+Replacing (c3330_0020) Pisaca with (c4172) Humanity Phantom (large)[100] ai = 417200; param = 417200
+Replacing (c3330_0021) Pisaca with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c3461_0000) Armored Tusk (Dukes) with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c3461_0001) Armored Tusk (Dukes) with (c2390) Darkwraith[20] ai = 239000; param = 239000
+Replacing (c5290_0001) Seath the Scaleless with (c5290) Seath the Scaleless[116] ai = 529000; param = 529000
+---------------------
+Randomizing m18_00_00_00 - Kiln of the First Flame
+Replacing (c2790_0001) Black Knight with (c3461) Armored Tusk (Dukes)[84] ai = 346100; param = 346100
+Replacing (c2790_0002) Black Knight with (c2710) Crystal Golem[39] ai = 271000; param = 271000
+Replacing (c2790_0003) Black Knight with (c2310) Crow Demon[14] ai = 231000; param = 231000
+Replacing (c2790_0004) Black Knight with (c3350) Possessed Tree[74] ai = 335000; param = 335000
+Replacing (c2790_0005) Black Knight with (c3340) Undead Attack Dog[72] ai = 334000; param = 334000
+Replacing (c2790_0006) Black Knight with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2790_0007) Black Knight with (c1203) Snow Rat[3] ai = 120300; param = 120300
+Replacing (c2790_0008) Black Knight with (c2560) Balder Knight[30] ai = 256002; param = 256002
+Replacing (c2790_0009) Black Knight with (c3460) Armored Tusk[83] ai = 346000; param = 346000
+Replacing (c2790_0010) Black Knight with (c2260) Batwing Demon[10] ai = 226000; param = 226000
+Replacing (c2791_0000) Black Knight with (c2690) Serpent Soldier[37] ai = 269000; param = 269000
+Replacing (c2791_0001) Black Knight with (c2960) Bone Tower[60] ai = 296000; param = 296000
+Replacing (c2791_0002) Black Knight with (c2660) Butcher[34] ai = 266000; param = 266000
+Replacing (c2791_0003) Black Knight with (c2930) Bonewheel Skeleton[57] ai = 293000; param = 293000
+Replacing (c2791_0004) Black Knight with (c2570) Berenike Knight[31] ai = 257001; param = 257001
+Replacing (c2791_0005) Black Knight with (c4130) Scarecrow[95] ai = 413000; param = 413000
+Replacing (c5370_0000) Gwyn with (c5220) Gravelord Nito[109] ai = 522000; param = 522000
+---------------------
+Randomizing m18_01_00_00 - Northern Undead Asylum
+Replacing (c2230_0000) Stray Demon with (c5350) Bell Gargoyles[118] ai = 535000; param = 535000
+Replacing (c2232_0000) Asylum Demon with (c2240) Capra Demon[8] ai = 224000; param = 224000
+Replacing (c2500_0000) Hollow with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2500_0001) Hollow with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c2500_0002) Hollow with (c2060) Infested Ghoul[4] ai = 206001; param = 206001
+Replacing (c2500_0003) Hollow with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2500_0005) Hollow with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2500_0006) Hollow with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2500_0007) Hollow with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2500_0009) Hollow with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2500_0010) Hollow with (c2500) Hollow[24] ai = 250005; param = 250010
+Replacing (c2500_0011) Hollow with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2500_0012) Hollow with (c2540) Armored Hollow[28] ai = 254000; param = 254010
+Replacing (c2500_0013) Hollow with (c2060) Infested Ghoul[4] ai = 206002; param = 206002
+Replacing (c2500_0014) Hollow with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2500_0015) Hollow with (c2540) Armored Hollow[28] ai = 254002; param = 254012
+Replacing (c2500_0016) Hollow with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2500_0017) Hollow with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2500_0018) Hollow with (c2550) Undead Soldier[29] ai = 255001; param = 255001
+Replacing (c2500_0019) Hollow with (c2330) Demonic Foliage[16] ai = 233000; param = 233000
+Replacing (c2500_0020) Hollow with (c3200) Slime[62] ai = 320000; param = 320000
+Replacing (c2500_0021) Hollow with (c2280) Mushroom Child[12] ai = 228000; param = 228000
+Replacing (c2550_0000) Undead Soldier with (c2430) Demonic Statue[23] ai = 243000; param = 243000
+Replacing (c2550_0001) Undead Soldier with (c2500) Hollow[24] ai = 250004; param = 250025
+Replacing (c2550_0002) Undead Soldier with (c2060) Infested Ghoul[4] ai = 206000; param = 206000
+Replacing (c2792_0000) Black Knight with (c1201) Small Rat[1] ai = 120100; param = 120100
+Replacing (c2792_0001) Black Knight with (c2560) Balder Knight[30] ai = 256002; param = 256002
+---------------------

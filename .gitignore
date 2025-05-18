@@ -103,16 +103,7 @@ venv.bak/
 .mypy_cache/
 
 # Custom Files
-build.bat
 DARKSOULS.exe
 DarkSoulsRemastered.exe
 
 # Custom Directories
-/enemyRandomizerData/
-event/
-map/
-param/
-script/
-sfx/
-otherLogs/
-/text/
